@@ -1,1 +1,1 @@
-# Rspberry-Pi-Pico
+# Raspberry-Pi-Pico
